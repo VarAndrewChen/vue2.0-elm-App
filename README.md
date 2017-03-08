@@ -1,10 +1,10 @@
 # elmApp
+[![Build Status](https://travis-ci.org/VarAndrewChen/vue2.0-elm-App.svg?branch=master)](https://travis-ci.org/VarAndrewChen/vue2.0-elm-App)
+[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)](https://github.com/VarAndrewChen/vue2.0-elm-App)
 
 > A Vue.js sell app
 
 ## Build Setup
-[![Build Status](https://travis-ci.org/VarAndrewChen/vue2.0-elm-App.svg?branch=master)](https://travis-ci.org/VarAndrewChen/vue2.0-elm-App)
-[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)](https://github.com/VarAndrewChen/vue2.0-elm-App)
 
 ``` bash
 # install dependencies
