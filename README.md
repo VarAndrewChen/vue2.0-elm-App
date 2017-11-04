@@ -1,4 +1,4 @@
-# elmApp
+# eleApp
 [![Build Status](https://travis-ci.org/varandrew/vue2.0-ele-App.svg?branch=master)](https://travis-ci.org/varandrew/vue2.0-elm-App)
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/VarAndrewChen/vue2.0-elm-App)
 [![Scrutinizer branch](https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg)](https://github.com/VarAndrewChen/vue2.0-elm-App)
